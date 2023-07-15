@@ -1,0 +1,13 @@
+.imgsi {
+  width: 100%;
+  height: 30rem;
+}
+h1 {
+  background-color: rgb(174, 170, 170);
+  text-align: center;
+}
+.para {
+  font-style: italic;
+  font-weight: bold;
+  padding: 2rem;
+}
